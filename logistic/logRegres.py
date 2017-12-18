@@ -36,7 +36,7 @@ def plotDataSet():
     ax.scatter(xcord1, ycord1, s=20, c='red', marker='s',alpha=.5)
     ax.scatter(xcord2, ycord2, s=20, c= 'green', alpha=.5)
     plt.title('DataSet')
-    plt.xlabel('x'); plt.ylabel('y')
+    plt.xlabel('x1'); plt.ylabel('x2')
     plt.show()
 
 # 梯度上升算法
@@ -44,7 +44,7 @@ def gradAscent(dataMatIn, classLabels):
     dataMatrix = np.mat(dataMatIn)
     labelMat = np.mat(classLabels).transpose()     # 转换成numpy的mat并进行转置
     m, n = np.shape(dataMatrix)                    # 返回dataMatrix矩阵的大小，m是行数，n是列数
-    alpha = 0.01                                  # 移动步长，也就是学习速率
+    alpha = 0.01                                   # 移动步长，也就是学习速率
     maxCycles = 500                                # 最大迭代次数
     weights = np.ones((n,1))
     weights_array = np.array([])
@@ -54,9 +54,9 @@ def gradAscent(dataMatIn, classLabels):
         weights = weights + alpha * dataMatrix.transpose() * error
         weights_array = np.append(weights_array,weights)
     weights_array = weights_array.reshape(maxCycles, n)
-    return weights.getA(),weights_array                       # 将矩阵转化为数组，并返回权重数组
+    return weights.getA(),weights_array            # 将矩阵转化为数组，并返回权重数组
 
-# 随机梯度上升算法
+# 改进的随机梯度上升算法
 def stocGradAscentl(dataMatrix, classLabels, numIter=150):
     m, n = np.shape(dataMatrix)
     weights = np.ones(n)
@@ -163,12 +163,13 @@ def plotWeights(weights_array1, weights_array2):
 
 if __name__ == '__main__':
     dataMatrix, labelMat = loadDataSet()
-    weight1, weights_array1 = stocGradAscentl(np.array(dataMatrix), labelMat)   #随机梯度上升算法
-
+    # plotDataSet()
+    # weight1, weights_array1 = stocGradAscentl(np.array(dataMatrix), labelMat)   #随机梯度上升算法
+    #
     weight2, weights_array2 = gradAscent(dataMatrix, labelMat)
-    print(weight1)
+    # print(weight1)
     print(weight2)
-    print(len(weights_array1))
-    print(len(weights_array2))
-#    plotBestFit(weight)
-    plotWeights(weights_array2, weights_array1)
+    # print(len(weights_array1))
+    # print(len(weights_array2))
+    # plotBestFit(weight2)
+#     plotWeights(weights_array2, weights_array1)

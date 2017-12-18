@@ -1,5 +1,6 @@
 import random
 import numpy as np
+from sklearn.linear_model import LogisticRegression
 
 def sigmoid(inX):
     return 1.0 / (1+np.exp(-inX))
@@ -68,5 +69,31 @@ def colicTest():
     errorRate = (float(errorCount)/numTestVec) * 100
     print("测试集错误率为: %.2f%%" % errorRate)
 
+# 使用Sklearn构建Logistic回归分类器
+# 根据数据集的情况，选择最优化算法
+def colicBySklearn():
+    frTrain = open('horseColicTraining.txt')                                        #打开训练集
+    frTest = open('horseColicTest.txt')
+    trainingSet = []; trainingLables = []
+    testSet = []; testLabels = []
+    for line in frTrain.readlines():
+        currentLine = line.strip().split('\t')
+        lineArr = []
+        for i in range(len(currentLine) - 1):
+            lineArr.append(float(currentLine[i]))
+        trainingSet.append(lineArr)
+        trainingLables.append(float(currentLine[-1]))
+    for line in frTest.readlines():
+        currentLine = line.strip().split('\t')
+        lineArr = []
+        for i in range(len(currentLine) - 1):
+            lineArr.append(float(currentLine[i]))
+        testSet.append(lineArr)
+        testLabels.append(float(currentLine[-1]))
+    classifier = LogisticRegression(solver='liblinear', max_iter=10).fit(trainingSet, trainingLables)
+    test_accurcy = classifier.score(testSet,testLabels) * 100
+    print('正确率：%f%%' % test_accurcy)
+
 if __name__ == '__main__':
-    colicTest()
+    # colicTest()
+    colicBySklearn()
