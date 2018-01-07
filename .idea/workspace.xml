@@ -1,65 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/svm/svmMLiA.py" line="168" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="988045b5-ee45-44e5-814f-4a64428e8df5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/e-mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/ham/9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/email/spam/9.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/TestML.iml" afterPath="$PROJECT_DIR$/.idea/Machine Learning.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/ClassList.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/10.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/11.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/12.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/13.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/14.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/15.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/16.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/17.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/18.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/19.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/nbc_Sklearn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/stopwords_cn.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-smo-Simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-smo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-svc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svmMLiA.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistic/logRegres.py" afterPath="$PROJECT_DIR$/logistic/logRegres.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistic/test_horse.py" afterPath="$PROJECT_DIR$/logistic/test_horse.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,43 +115,40 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/TestML$kNN_test02__1_.coverage" NAME="kNN_test02 (1) Coverage Results" MODIFIED="1508234896884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
-    <SUITE FILE_PATH="coverage/TestML$kNN_test02.coverage" NAME="kNN_test02 Coverage Results" MODIFIED="1507878582366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestML$KNN__1_.coverage" NAME="KNN (1) Coverage Results" MODIFIED="1507878740161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
     <SUITE FILE_PATH="coverage/Machine_Learning$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1513575475513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Naive Bayes" />
-    <SUITE FILE_PATH="coverage/TestML$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1510587318455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
     <SUITE FILE_PATH="coverage/TestML$Unittests_in_TestML.coverage" NAME="Unittests in TestML Coverage Results" MODIFIED="1511268892536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestML$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1511615206450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
-    <SUITE FILE_PATH="coverage/Machine_Learning$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1512031221609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
     <SUITE FILE_PATH="coverage/Machine_Learning$e_mail.coverage" NAME="e-mail Coverage Results" MODIFIED="1513586511646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Naive Bayes" />
     <SUITE FILE_PATH="coverage/TestML$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1507816385535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$svm_svc.coverage" NAME="svm-svc Coverage Results" MODIFIED="1515302461067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/TestML$trees.coverage" NAME="trees Coverage Results" MODIFIED="1511254408349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision tree" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$svmMLiA.coverage" NAME="svmMLiA Coverage Results" MODIFIED="1515156143451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/TestML$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1508236005500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
+    <SUITE FILE_PATH="coverage/TestML$TestExample.coverage" NAME="TestExample Coverage Results" MODIFIED="1511265360887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$svmMLiA__1_.coverage" NAME="svmMLiA (1) Coverage Results" MODIFIED="1515241469307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
+    <SUITE FILE_PATH="coverage/TestML$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1507878756230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
+    <SUITE FILE_PATH="coverage/TestML$kNN_test02.coverage" NAME="kNN_test02 Coverage Results" MODIFIED="1507878582366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$download.coverage" NAME="download Coverage Results" MODIFIED="1515035965208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestML$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1510587318455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$kNN_test04Bysklearn.coverage" NAME="kNN_test04Bysklearn Coverage Results" MODIFIED="1515243693180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1512031221609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
     <SUITE FILE_PATH="coverage/TestML$trees_sklearn.coverage" NAME="trees-sklearn Coverage Results" MODIFIED="1511270056676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision tree" />
     <SUITE FILE_PATH="coverage/TestML$test_horse.coverage" NAME="test_horse Coverage Results" MODIFIED="1511675702596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
-    <SUITE FILE_PATH="coverage/TestML$trees.coverage" NAME="trees Coverage Results" MODIFIED="1511254408349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/decision tree" />
     <SUITE FILE_PATH="coverage/TestML$kNN_test04Bysklearn.coverage" NAME="kNN_test04Bysklearn Coverage Results" MODIFIED="1510044574213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
-    <SUITE FILE_PATH="coverage/TestML$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1508236005500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$nbc_Sklearn.coverage" NAME="nbc_Sklearn Coverage Results" MODIFIED="1515124751515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Naive Bayes" />
     <SUITE FILE_PATH="coverage/Machine_Learning$test_horse.coverage" NAME="test_horse Coverage Results" MODIFIED="1512291428857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
-    <SUITE FILE_PATH="coverage/TestML$TestExample.coverage" NAME="TestExample Coverage Results" MODIFIED="1511265360887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TestML$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1507878756230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$svm_smo.coverage" NAME="svm-smo Coverage Results" MODIFIED="1515243715787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/svm" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="bayes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Naive Bayes/bayes.py">
+      <file leaf-file-name="svm-svc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/svm/svm-svc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="e-mail.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Naive Bayes/e-mail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567">
-              <caret line="81" column="71" lean-forward="true" selection-start-line="81" selection-start-column="71" selection-end-line="81" selection-end-column="71" />
+            <state relative-caret-position="162">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,6 +167,8 @@
     <findStrings>
       <find>scripy</find>
       <find>scipy</find>
+      <find>黄金周</find>
+      <find>[</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,6 +194,12 @@
         <option value="$PROJECT_DIR$/logistic/test_horse.py" />
         <option value="$PROJECT_DIR$/Naive Bayes/bayes.py" />
         <option value="$PROJECT_DIR$/Naive Bayes/e-mail.py" />
+        <option value="$PROJECT_DIR$/download.py" />
+        <option value="$PROJECT_DIR$/Naive Bayes/nbc_Sklearn.py" />
+        <option value="$PROJECT_DIR$/svm/svm-smo.py" />
+        <option value="$PROJECT_DIR$/svm/svmMLiA.py" />
+        <option value="$PROJECT_DIR$/svm/svm-digits.py" />
+        <option value="$PROJECT_DIR$/svm/svm-svc.py" />
       </list>
     </option>
   </component>
@@ -159,7 +209,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -182,6 +232,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,16 +241,10 @@
               <item name="Machine Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Machine Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Machine Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Naive Bayes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.e-mail">
+  <component name="RunManager" selected="Python.svm-svc">
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,90 +433,110 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kNN_test04Bysklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Naive Bayes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kNN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naive Bayes/bayes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kNN/kNN_test04Bysklearn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="e-mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="svm-smo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Naive Bayes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Naive Bayes/e-mail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svm/svm-smo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="svm-svc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logistic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic/logRegres.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svm/svm-svc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="test_horse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="svmMLiA (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logistic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Machine Learning" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logistic/test_horse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svm/svmMLiA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_horse" />
-      <item index="1" class="java.lang.String" itemvalue="Python.logRegres" />
-      <item index="2" class="java.lang.String" itemvalue="Python.bayes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.e-mail" />
+    <configuration name="svmMLiA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\liu\PycharmProjects\Machine Learning\svm\svm-smo-Simple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.svmMLiA" />
+      <item index="1" class="java.lang.String" itemvalue="Python.svm-smo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.svmMLiA (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.svm-svc" />
+      <item index="4" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.e-mail" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bayes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_horse" />
-        <item index="3" class="java.lang.String" itemvalue="Python.logRegres" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.svm-svc" />
+        <item index="1" class="java.lang.String" itemvalue="Python.svm-smo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
+        <item index="3" class="java.lang.String" itemvalue="Python.svmMLiA (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.svmMLiA" />
       </list>
     </recent_temporary>
   </component>
@@ -497,16 +562,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32045928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30482456" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3026316" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -527,18 +591,18 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30482456" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3059867" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31152993" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32045928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18580376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -549,94 +613,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2997">
-          <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2997">
-          <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2997">
-          <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2997">
-          <caret line="114" column="24" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1512">
@@ -702,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="139" column="24" lean-forward="false" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kNN/testDigits/0_66.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-109">
@@ -758,31 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test04Bysklearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="101" column="26" lean-forward="false" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decision tree/trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="149" column="49" lean-forward="false" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/decision tree/lenses.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decision tree/trees-sklearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -851,43 +808,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logistic/test_horse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="89" column="49" lean-forward="true" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Naive Bayes/ham/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/ham/1.txt" />
     <entry file="file://$PROJECT_DIR$/Naive Bayes/email/ham/1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Naive Bayes/bayes.py">
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/10.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="63">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/stopwords_cn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Naive Bayes/e-mail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="81" column="71" lean-forward="true" selection-start-line="81" selection-start-column="71" selection-end-line="81" selection-end-column="71" />
+        <state relative-caret-position="-493">
+          <caret line="84" column="11" lean-forward="false" selection-start-line="84" selection-start-column="11" selection-end-line="84" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Naive Bayes/nbc_Sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="121" column="19" lean-forward="true" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision tree/trees-sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision tree/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2916">
+          <caret line="149" column="49" lean-forward="false" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic/test_horse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="89" column="49" lean-forward="false" selection-start-line="89" selection-start-column="49" selection-end-line="89" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="232" column="0" lean-forward="true" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/testDigits/0_81.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/testDigits/5_12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kNN/kNN_test04Bysklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm/svm-smo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="140" column="26" lean-forward="false" selection-start-line="140" selection-start-column="26" selection-end-line="140" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm/svm-smo-Simple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm/svm-svc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
