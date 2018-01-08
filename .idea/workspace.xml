@@ -5,106 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="988045b5-ee45-44e5-814f-4a64428e8df5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/ClassList.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000008/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000010/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000013/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000014/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000016/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000020/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000022/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000023/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/SogouC/Sample/C000024/19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/nbc_Sklearn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naive Bayes/stopwords_cn.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-smo-Simple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-smo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svm-svc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svm/svmMLiA.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apkINI.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/download.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kMeans/kMeans.py" afterPath="$PROJECT_DIR$/kMeans/kMeans.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -117,6 +21,8 @@
     <SUITE FILE_PATH="coverage/TestML$kNN_test02__1_.coverage" NAME="kNN_test02 (1) Coverage Results" MODIFIED="1508234896884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
     <SUITE FILE_PATH="coverage/TestML$KNN__1_.coverage" NAME="KNN (1) Coverage Results" MODIFIED="1507878740161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kNN" />
     <SUITE FILE_PATH="coverage/Machine_Learning$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1513575475513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Naive Bayes" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$kMeans.coverage" NAME="kMeans Coverage Results" MODIFIED="1515393095825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
+    <SUITE FILE_PATH="coverage/Machine_Learning$Test.coverage" NAME="Test Coverage Results" MODIFIED="1515319509033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kMeans" />
     <SUITE FILE_PATH="coverage/TestML$Unittests_in_TestML.coverage" NAME="Unittests in TestML Coverage Results" MODIFIED="1511268892536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TestML$logRegres.coverage" NAME="logRegres Coverage Results" MODIFIED="1511615206450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logistic" />
     <SUITE FILE_PATH="coverage/Machine_Learning$e_mail.coverage" NAME="e-mail Coverage Results" MODIFIED="1513586511646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Naive Bayes" />
@@ -142,14 +48,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="svm-svc.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/svm/svm-svc.py">
+      <file leaf-file-name="kMeans.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kMeans/kMeans.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,7 +89,6 @@
         <option value="$PROJECT_DIR$/get_permission.py" />
         <option value="$PROJECT_DIR$/kNN/KNN.py" />
         <option value="$PROJECT_DIR$/kNN/kNN_test04Bysklearn.py" />
-        <option value="$PROJECT_DIR$/kMeans/kMeans.py" />
         <option value="$PROJECT_DIR$/decision tree/treed.py" />
         <option value="$PROJECT_DIR$/decision tree/trees.py" />
         <option value="$PROJECT_DIR$/TestExample.py" />
@@ -200,6 +103,8 @@
         <option value="$PROJECT_DIR$/svm/svmMLiA.py" />
         <option value="$PROJECT_DIR$/svm/svm-digits.py" />
         <option value="$PROJECT_DIR$/svm/svm-svc.py" />
+        <option value="$PROJECT_DIR$/kMeans/Test.py" />
+        <option value="$PROJECT_DIR$/kMeans/kMeans.py" />
       </list>
     </option>
   </component>
@@ -241,6 +146,11 @@
               <item name="Machine Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Machine Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="kMeans" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -275,7 +185,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.svm-svc">
+  <component name="RunManager" selected="Python.kMeans">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kMeans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kMeans/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,6 +361,24 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <configuration name="kMeans" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kMeans" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kMeans/kMeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="kNN_test04Bysklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -487,56 +433,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="svmMLiA (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine Learning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svm/svmMLiA.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="svmMLiA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/svm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Machine Learning" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\liu\PycharmProjects\Machine Learning\svm\svm-smo-Simple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.svmMLiA" />
-      <item index="1" class="java.lang.String" itemvalue="Python.svm-smo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.svmMLiA (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.svm-svc" />
-      <item index="4" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
+      <item index="0" class="java.lang.String" itemvalue="Python.svm-smo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.svm-svc" />
+      <item index="2" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kMeans" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.svm-svc" />
-        <item index="1" class="java.lang.String" itemvalue="Python.svm-smo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
-        <item index="3" class="java.lang.String" itemvalue="Python.svmMLiA (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.svmMLiA" />
+        <item index="0" class="java.lang.String" itemvalue="Python.kMeans" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.svm-svc" />
+        <item index="3" class="java.lang.String" itemvalue="Python.svm-smo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.kNN_test04Bysklearn" />
       </list>
     </recent_temporary>
   </component>
@@ -563,14 +473,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30482456" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3026316" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3015351" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -584,27 +495,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30482456" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3059867" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18580376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -622,56 +512,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/kNN_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2538">
-          <caret line="97" column="30" lean-forward="true" selection-start-line="97" selection-start-column="30" selection-end-line="97" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kNN/KNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="40" column="54" lean-forward="false" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/numpy/__init__.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/numpy/matrixlib/defmatrix.py" />
     <entry file="file://$PROJECT_DIR$/kNN/date.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -698,41 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kMeans/places.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kMeans/portlandClubs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kMeans/testSet2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kMeans/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kMeans/kMeans.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -763,13 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2430">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -827,20 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -942,17 +726,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-891">
           <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/svm/svm-svc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="918">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download.py" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apkINI.txt" />
+    <entry file="file://$PROJECT_DIR$/TestExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4522">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-321989732/numpy/core/umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="3860" column="4" lean-forward="false" selection-start-line="3860" selection-start-column="4" selection-end-line="3860" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="3082" column="6" lean-forward="true" selection-start-line="3082" selection-start-column="6" selection-end-line="3082" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/places.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1098">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/portlandClubs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/testSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1179">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="2805" column="4" lean-forward="false" selection-start-line="2805" selection-start-column="4" selection-end-line="2805" selection-end-column="4" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#74#138#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="240" column="23" lean-forward="true" selection-start-line="240" selection-start-column="23" selection-end-line="240" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kMeans/kMeans.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
